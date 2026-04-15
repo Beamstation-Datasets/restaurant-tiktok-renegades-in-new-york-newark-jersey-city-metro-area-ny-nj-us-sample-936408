@@ -1,0 +1,12 @@
+{
+  "export_job_id": "4f1a82cc-4eda-4430-9d6a-98c4f031f5b9",
+  "id_short": 936408,
+  "published_at": "2026-04-15T19:38:37Z",
+  "repo_name": "restaurant-tiktok-renegades-in-new-york-newark-jersey-city-metro-area-ny-nj-us-sample-936408",
+  "sample_asset_name": "beamstation_936408_restaurants-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/936408/beamstation_936408_restaurants-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
+  "sample_records": 39,
+  "sample_sha256": "b7fc3f377d707866923a5c4dbe731852cd5f133df9f783081456f0a276438c2a",
+  "sample_size_bytes": 173753,
+  "total_records": 390
+}
