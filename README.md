@@ -1,6 +1,6 @@
 # Restaurant TikTok Renegades in New York-Newark-Jersey City Metro Area, NY-NJ, US
 
-> Free BeamStation sample export with 48 rows and masked direct-contact fields.
+> Free BeamStation sample export with 47 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `936408` |
 | Location | New York-Newark-Jersey City, NY-NJ |
 | Category | Restaurants |
-| Full dataset size | 480 records |
-| Free sample size | 48 records (10.0%) |
-| Last export | 2026-04-22T16:45:54.842358+00:00 |
+| Full dataset size | 479 records |
+| Free sample size | 47 records (9.81%) |
+| Last export | 2026-04-29T16:44:11.182038+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-new-york-newark-jersey-city-metro-area-ny-nj-us-sample-936408/releases/download/sample-latest/beamstation_936408_restaurants-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
